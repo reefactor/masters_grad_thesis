@@ -1,0 +1,1 @@
+nmake /f "XGaloisLib.mak" CFG="XGaloisLib - Win32 Release"
