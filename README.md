@@ -1,6 +1,8 @@
 # undergrad_crypto
 
-Some C++ with x86 asm sources from works on RSA and DH crypto stuff during my undergraduate years.
+Tools for public cryptography RSA and DH in C++/x86 asm from research during my undergraduate years.
+
+No external dependencies.
 
 Written and tested on MS Visual C++ 6.
 Portable/posix version was never finished.
